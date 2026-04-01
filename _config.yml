@@ -1,8 +1,5 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Bitácora del Trabajo Profesional
+description: Registro semanal, cronograma de hitos y seguimiento continuo del progreso del Trabajo Profesional.
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
-
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+url: https://trabajoprofesional-aggz.github.io/bitacora/
