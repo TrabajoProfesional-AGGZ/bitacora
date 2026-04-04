@@ -6,7 +6,7 @@ nav_order: 4
 
 # Semana 3: Tareas administrativas y organización documental
 
-**Período:** Jueves 26 de Marzo al Jueves 2 de Abril.
+**Período:** Jueves 26 de Marzo al Miércoles 1 de Abril.
 
 ## 🎯 Objetivos de la semana
 

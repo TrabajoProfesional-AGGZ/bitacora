@@ -18,3 +18,4 @@ Puedes navegar por las distintas semanas utilizando el menú lateral, o acceder 
 1. [Semana 1: Jueves 12/03 al Miércoles 18/03](semanario/semana-01.html)
 2. [Semana 2: Jueves 19/03 al Miércoles 25/03](semanario/semana-02.html)
 3. [Semana 3: Jueves 26/03 al Jueves 02/04](semanario/semana-03.html)
+4. [Semana 4: Viernes 03/04 al Jueves 09/04](semanario/semana-04.html)
