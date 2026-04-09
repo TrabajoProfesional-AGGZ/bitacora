@@ -2,4 +2,6 @@ title: Bitácora
 description: Registro semanal, cronograma de hitos y seguimiento continuo del progreso del Trabajo Profesional.
 theme: just-the-docs
 
-url: https://trabajoprofesional-aggz.github.io/bitacora/
+url: "https://trabajoprofesional-aggz.github.io"
+
+baseurl: "/bitacora"
