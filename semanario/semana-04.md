@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Semana 4 (03/04 al 09/04)
+title: Semana 4 (02/04 al 08/04)
 nav_order: 5
 ---
 
@@ -18,7 +18,7 @@ nav_order: 5
 ## 📝 Tareas realizadas
 
 * **Primera Reunión Cíclica:** Asistencia a la clase semanal donde se abordaron los Temas 0, 1 y 2. Se profundizaron conceptos de **Inteligencia Cultural**, metodologías ágiles y los lineamientos de los métodos de evaluación **5C** y **4P**.
-* **Sesión de Brainstorming:** Reunión de equipo realizada el día martes para la generación de ideas. Se logró alcanzar el objetivo de 12 propuestas sólidas, diversificando los dominios de aplicación (incluyendo áreas como aviación, salud y finanzas).
+* **Sesión de Brainstorming:** Reunión de equipo realizada el día martes para la generación de ideas. Se logró alcanzar el objetivo de 12 propuestas sólidas, diversificando los dominios de aplicación.
 * **Análisis de Viabilidad (5C):** Aplicación del modelo de las 5C sobre los productos con mayor potencial, permitiendo un filtrado crítico de las opciones.
 * **Carga Documental:** Actualización del repositorio de *Análisis de Productos* con las nuevas ideas y sus respectivos análisis estructurales.
 

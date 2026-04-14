@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Semana 3 (26/03 al 02/04)
+title: Semana 3 (26/03 al 01/04)
 nav_order: 4
 ---
 
