@@ -4,7 +4,7 @@ title: Semana 6 (16/04 al 22/04)
 nav_order: 7
 ---
 
-# Semana 6: X.
+# Semana 6: Mejora de propuestas
 
 **Período:** Jueves 16 de Abril al Miércoles 22 de Abril.
 
