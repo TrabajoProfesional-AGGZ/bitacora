@@ -27,6 +27,6 @@ nav_order: 7
 
 ## ⏭️ Próximos pasos
 
-* **Cuarta Reunión Cíclica:** Presentación de las 3 ideas con el feedback recibido y el análisis de las "4 C" ya realizado previamente. El objetivo sigue siendo obtener el visto bueno definitivo del tutor para la elección del producto final.
+* **Cuarta Reunión Cíclica:** Presentación de las 3 ideas con el feedback recibido y el análisis de las "4 P" ya realizado previamente. El objetivo sigue siendo obtener el visto bueno definitivo del tutor para la elección del producto final.
 * **Selección de Idea Final:** En base al nuevo feedback, decidir por cuál de las opciones optar y comenzar el desarrollo de los requerimientos específicos.
 * **Inicio de Fase Operativa:** Una vez validada la idea mejor posicionada, comenzar con el trabajo detallado sobre esa propuesta única.
