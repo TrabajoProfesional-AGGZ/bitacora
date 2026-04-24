@@ -21,3 +21,4 @@ Puedes navegar por las distintas semanas utilizando el menú lateral, o acceder 
 4. [Semana 4: Jueves 02/04 al Miércoles 08/04](semanario/semana-04.html)
 5. [Semana 5: Jueves 09/04 al Miércoles 15/04](semanario/semana-05.html)
 6. [Semana 6: Jueves 16/04 al Miércoles 22/04](semanario/semana-06.html)
+7. [Semana 7: Jueves 23/04 al Miércoles 29/04](semanario/semana-07.html)
