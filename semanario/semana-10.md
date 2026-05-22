@@ -24,5 +24,5 @@ nav_order: 10
 
 ## ⏭️ Próximos pasos
 
-* **Octava Reunión Semanal:** Asistir a la sesión donde se evaluarán los resultados obtenidos del análisis de '4 Ps' sobre las 3 ideas principales.
+* **Octava Reunión Semanal:** Asistir a la sesión donde se evaluarán los resultados obtenidos del análisis de las "4 P" sobre las 3 ideas principales.
 * **Aprobación de Idea Final:** Continuar con las gestiones para obtener el visto bueno definitivo de la propuesta principal "Socio Unido".
