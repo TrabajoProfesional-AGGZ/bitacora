@@ -16,16 +16,16 @@ nav_order: 3
 
 ## 📝 Tareas realizadas
 
-* **Asignación Exitosa:** Recepción de la confirmación de la tutoría requerida, permitiendo el inicio formal de las actividades de investigación.
-* **Sesión de Brainstorming:** Ejecución de una jornada de ideación extensiva, resultando en la preselección de tres verticales de negocio:
+* **Asignación exitosa:** Recepción de la confirmación de la tutoría requerida, permitiendo el inicio formal de las actividades de investigación.
+* **Sesión de brainstorming:** Ejecución de una jornada de ideación extensiva, resultando en la preselección de tres verticales de negocio:
     1. **ScoreMaster:** Optimización de plataformas de información deportiva.
     2. **CryptoWealth:** Gestión centralizada de activos e inversiones digitales.
     3. **MedTrack:** Transformación digital en el seguimiento de pacientes clínicos.
-* **Análisis de Valor Agregado:** Evaluación preliminar sobre cómo el "super-ciclo" de la IA puede diferenciar estos productos en el mercado actual.
+* **Análisis de valor agregado:** Evaluación preliminar sobre cómo el "super-ciclo" de la IA puede diferenciar estos productos en el mercado actual.
 
 ## 🚧 Problemas / Desafíos
 
-* **Análisis de Factibilidad de IA:** Se presentó el desafío de identificar casos de uso de IA que no solo fueran innovadores, sino técnicamente viables y que aportaran un valor diferencial real a usuarios y marcas.
+* **Análisis de factibilidad de IA:** Se presentó el desafío de identificar casos de uso de IA que no solo fueran innovadores, sino técnicamente viables y que aportaran un valor diferencial real a usuarios y marcas.
 
 ## ⏭️ Próximos pasos
 

@@ -4,7 +4,7 @@ title: Semana 9 (07/05 al 13/05)
 nav_order: 10
 ---
 
-# Semana 9: Evaluaciones individuales y estimaciones de ingresos
+# Semana 9: Evaluaciones individuales (parte 1) y estimaciones de ingresos
 
 **Período:** Jueves 7 de Mayo al Miércoles 13 de Mayo.
 
@@ -17,10 +17,10 @@ nav_order: 10
 
 ## 📝 Tareas realizadas
 
-* **Sexta Reunión Semanal:** Asistencia a la sesión correspondiente para dar inicio a la primera ronda de defensas individuales.
-* **Evaluación Individual:** Ejecución y defensa de las actividades asignadas por parte de Felipe.
-* **Estimación de Ingresos (4 P):** Desarrollo y cálculo de las proyecciones de ingresos para cada una de las 3 ideas principales, fortaleciendo la viabilidad económica en el apartado de Precio/Plaza.
-* **Refinamiento de Presentaciones:** Revisión final y ajuste de las exposiciones individuales (incluyendo el formato bilingüe) para los 3 miembros del equipo que deben rendir próximamente.
+* **Sexta reunión semanal:** Asistencia a la sesión correspondiente para dar inicio a la primera ronda de defensas individuales.
+* **Evaluación individual:** Ejecución y defensa de las actividades asignadas por parte de Felipe.
+* **Estimación de ingresos (4 P):** Desarrollo y cálculo de las proyecciones de ingresos para cada una de las 3 ideas principales, fortaleciendo la viabilidad económica en el apartado de Precio/Plaza.
+* **Refinamiento de presentaciones:** Revisión final y ajuste de las exposiciones individuales (incluyendo el formato bilingüe) para los 3 miembros del equipo que deben rendir próximamente.
 
 ## 🚧 Problemas / Desafíos
 
@@ -28,6 +28,6 @@ nav_order: 10
 
 ## ⏭️ Próximos pasos
 
-* **Séptima Reunión Semanal:** Asistir a la segunda sesión de evaluación para que los integrantes restantes defiendan sus actividades individuales.
-* **Aprobación de Idea Final:** Continuar con las gestiones para obtener el visto bueno definitivo de la propuesta principal "Socio Unido".
-* **Desempeño en Evaluaciones Restantes:** Ejecutar las defensas individuales pendientes de la mejor manera posible, aplicando el feedback y la experiencia de la semana 8.
+* **Séptima reunión semanal:** Asistir a la segunda sesión de evaluación para que los integrantes restantes defiendan sus actividades individuales.
+* **Aprobación de idea final:** Continuar con las gestiones para obtener el visto bueno definitivo de la propuesta principal "Socio Unido".
+* **Desempeño en evaluaciones restantes:** Ejecutar las defensas individuales pendientes de la mejor manera posible, aplicando el feedback y la experiencia de la semana 8.

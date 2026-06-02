@@ -16,7 +16,7 @@ nav_order: 8
 
 ## 📝 Tareas realizadas
 
-* **Cuarta Reunión Cíclica:** Participación activa en el encuentro semanal de tutoría.
+* **Cuarta reunión cíclica:** Participación activa en el encuentro semanal de tutoría.
 * **Mejora de las "4 P":** Se mejoraron las definiciones del producto, precio, plaza y promoción tomando en cuenta el último feedback y las observaciones surgidas en la clase.
 * **Revisión bibliográfica:** Lectura y análisis del material de estudio disponible en el campus virtual, complementario a los temas abordados en la reunión.
 
@@ -28,6 +28,7 @@ Este punto específico requerirá validación y será consultado con los docente
 
 ## ⏭️ Próximos pasos
 
-* **Quinta Reunión Cíclica:** Participar en el nuevo encuentro semanal para validar las estimaciones de precio.
-* **Selección de Idea Final:** Continuar con el proceso de evaluación para definir finalmente la propuesta elegida.
-* **Inicio de Fase Operativa:** Una vez consolidada y seleccionada la idea final, dar inicio a las tareas operativas correspondientes.
+* **Quinta reunión cíclica:** Participar en el nuevo encuentro semanal para validar las estimaciones de precio.
+* **Selección de idea final:** Continuar con el proceso de evaluación para definir finalmente la propuesta elegida.
+* **Inicio de fase operativa:** Una vez consolidada y seleccionada la idea final, dar inicio a las tareas operativas correspondientes.
+    

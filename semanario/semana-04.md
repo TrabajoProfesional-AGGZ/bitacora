@@ -17,16 +17,16 @@ nav_order: 5
 
 ## 📝 Tareas realizadas
 
-* **Primera Reunión Cíclica:** Asistencia a la clase semanal donde se abordaron los Temas 0, 1 y 2. Se profundizaron conceptos de **Inteligencia Cultural**, metodologías ágiles y los lineamientos de los métodos de evaluación **5C** y **4P**.
-* **Sesión de Brainstorming:** Reunión de equipo realizada el día martes para la generación de ideas. Se logró alcanzar el objetivo de 12 propuestas sólidas, diversificando los dominios de aplicación.
-* **Análisis de Viabilidad (5C):** Aplicación del modelo de las 5C sobre los productos con mayor potencial, permitiendo un filtrado crítico de las opciones.
-* **Carga Documental:** Actualización del repositorio de *Análisis de Productos* con las nuevas ideas y sus respectivos análisis estructurales.
+* **Primera reunión cíclica:** Asistencia a la clase semanal donde se abordaron los Temas 0, 1 y 2. Se profundizaron conceptos de **Inteligencia cultural**, metodologías ágiles y los lineamientos de los métodos de evaluación **5C** y **4P**.
+* **Sesión de brainstorming:** Reunión de equipo realizada el día martes para la generación de ideas. Se logró alcanzar el objetivo de 12 propuestas sólidas, diversificando los dominios de aplicación.
+* **Análisis de viabilidad (5C):** Aplicación del modelo de las 5C sobre los productos con mayor potencial, permitiendo un filtrado crítico de las opciones.
+* **Carga documental:** Actualización del repositorio de *Análisis de Productos* con las nuevas ideas y sus respectivos análisis estructurales.
 
 ## 🚧 Problemas / Desafíos
 
-* **Complejidad del Modelo 5C:** Se identificó una dificultad inicial para profundizar en el análisis de las 5C para las ideas seleccionadas. Por lo que se requirió de una investigación adicional para asegurar que la evaluación fuera lo suficientemente sólida para la presentación ante los tutores.
+* **Complejidad del modelo 5C:** Se identificó una dificultad inicial para profundizar en el análisis de las 5C para las ideas seleccionadas. Por lo que se requirió de una investigación adicional para asegurar que la evaluación fuera lo suficientemente sólida para la presentación ante los tutores.
 
 ## ⏭️ Próximos pasos
 
-* **Segunda Reunión Cíclica:** Exposición de las ideas de producto y defensa del análisis realizado frente a la cátedra.
-* **Iteración por Feedback:** Ajustar y refinar las propuestas de producto en base a las devoluciones recibidas en la reunión.
+* **Segunda reunión cíclica:** Exposición de las ideas de producto y defensa del análisis realizado frente a la cátedra.
+* **Iteración por feedback:** Ajustar y refinar las propuestas de producto con base en las devoluciones recibidas en la reunión.

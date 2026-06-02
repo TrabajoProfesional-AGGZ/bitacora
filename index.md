@@ -5,13 +5,13 @@ nav_order: 1
 description: "Página principal de la bitácora."
 ---
 
-# Bitácora del Proyecto
+# Bitácora del proyecto
 
 Bienvenido al registro de seguimiento y evolución del Trabajo Profesional. 
 
 El objetivo de este sitio es documentar el progreso continuo del proyecto, proporcionando un historial claro de las tareas realizadas, los hitos alcanzados y las decisiones tomadas a lo largo del desarrollo.
 
-## Registro Semanal
+## Registro semanal
 
 Puedes navegar por las distintas semanas utilizando el menú lateral, o acceder directamente a los reportes desde aquí:
 
@@ -26,3 +26,4 @@ Puedes navegar por las distintas semanas utilizando el menú lateral, o acceder 
 9. [Semana 9: Jueves 07/05 al Miércoles 13/05](semanario/semana-09.html)
 10. [Semana 10: Jueves 14/05 al Miércoles 20/05](semanario/semana-10.html)
 11. [Semana 11: Jueves 21/05 al Miércoles 27/05](semanario/semana-11.html)
+12. [Semana 12: Jueves 28/05 al Miércoles 03/06](semanario/semana-12.html)

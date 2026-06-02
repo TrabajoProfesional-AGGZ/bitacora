@@ -16,9 +16,9 @@ nav_order: 2
 
 ## 📝 Tareas realizadas
 
-* **Presentación y Networking:** Tras la sesión inicial de la cátedra, se consolidó el equipo de trabajo. Se llevaron a cabo reuniones de vinculación para identificar las habilidades técnicas, experiencias profesionales y preferencias tecnológicas de cada integrante.
-* **Selección de Tutoría:** Se analizó el perfil de los tutores disponibles, decidiendo formalizar la solicitud para trabajar bajo la guía del **Mag. Ing. Gabriel Piñeiro** y el **Ing. Agustín Perrota**.
-* **Definición de Comunicación:** Establecimiento de canales oficiales y frecuencia de reuniones internas para garantizar la fluidez del proyecto.
+* **Presentación y networking:** Tras la sesión inicial de la cátedra, se consolidó el equipo de trabajo. Se llevaron a cabo reuniones de vinculación para identificar las habilidades técnicas, experiencias profesionales y preferencias tecnológicas de cada integrante.
+* **Selección de tutoría:** Se analizó el perfil de los tutores disponibles, decidiendo formalizar la solicitud para trabajar bajo la guía del **Mag. Ing. Gabriel Piñeiro** y el **Ing. Agustín Perrota**.
+* **Definición de comunicación:** Establecimiento de canales oficiales y frecuencia de reuniones internas para garantizar la fluidez del proyecto.
 
 ## 🚧 Problemas / Desafíos
 

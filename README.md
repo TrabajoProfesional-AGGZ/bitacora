@@ -1,4 +1,4 @@
-# Bitácora de Avances
+# Bitácora de avances
 
 Registro semanal, cronograma de hitos y seguimiento continuo del progreso del Trabajo Profesional.
 
