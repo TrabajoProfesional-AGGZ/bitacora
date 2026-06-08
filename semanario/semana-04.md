@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Semana 4 (02/04 al 08/04)
+title: Semana 4 (02/04/2026 al 08/04/2026)
 nav_order: 5
 ---
 
 # Semana 4: Brainstorming y Análisis de Propuestas
 
-**Período:** Jueves 2 de Abril al Miércoles 8 de Abril.
+**Período:** Jueves 2 de Abril al Miércoles 8 de Abril de 2026.
 
 ## 🎯 Objetivos de la semana
 

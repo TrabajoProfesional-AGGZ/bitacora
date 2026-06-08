@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Semana 8 (30/04 al 06/05)
+title: Semana 8 (30/04/2026 al 06/05/2026)
 nav_order: 9
 ---
 
 # Semana 8: Focalización de mercado y preparación de evaluaciones
 
-**Período:** Jueves 30 de Abril al Miércoles 6 de Mayo.
+**Período:** Jueves 30 de Abril al Miércoles 6 de Mayo de 2026.
 
 ## 🎯 Objetivos de la semana
 

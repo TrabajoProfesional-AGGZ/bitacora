@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Semana 5 (09/04 al 15/04)
+title: Semana 5 (09/04/2026 al 15/04/2026)
 nav_order: 6
 ---
 
 # Semana 5: Refinamiento de ideas y análisis táctico
 
-**Período:** Jueves 9 de Abril al Miércoles 15 de Abril.
+**Período:** Jueves 9 de Abril al Miércoles 15 de Abril de 2026.
 
 ## 🎯 Objetivos de la semana
 

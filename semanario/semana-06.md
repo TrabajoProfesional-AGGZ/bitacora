@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Semana 6 (16/04 al 22/04)
+title: Semana 6 (16/04/2026 al 22/04/2026)
 nav_order: 7
 ---
 
 # Semana 6: Mejora de propuestas
 
-**Período:** Jueves 16 de Abril al Miércoles 22 de Abril.
+**Período:** Jueves 16 de Abril al Miércoles 22 de Abril de 2026.
 
 ## 🎯 Objetivos de la semana
 

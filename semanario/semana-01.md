@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Semana 1 (12/03 al 18/03)
+title: Semana 1 (12/03/2026 al 18/03/2026)
 nav_order: 2
 ---
 
 # Semana 1: Conformación del equipo y selección de tutoría
 
-**Período:** Jueves 12 de Marzo al Miércoles 18 de Marzo.
+**Período:** Jueves 12 de Marzo al Miércoles 18 de Marzo de 2026.
 
 ## 🎯 Objetivos de la semana
 

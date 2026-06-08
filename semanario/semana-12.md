@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Semana 12 (28/05 al 03/06)
+title: Semana 12 (28/05/2026 al 03/06/2026)
 nav_order: 13
 ---
 
 # Semana 12: Preparación del entorno de desarrollo y entrega del anteproyecto
 
-**Período:** Jueves 28 de Mayo al Miércoles 3 de Junio.
+**Período:** Jueves 28 de Mayo al Miércoles 3 de Junio de 2026.
 
 ## 🎯 Objetivos de la semana
 

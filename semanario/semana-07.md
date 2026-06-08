@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Semana 7 (23/04 al 29/04)
+title: Semana 7 (23/04/2026 al 29/04/2026)
 nav_order: 8
 ---
 
 # Semana 7: Análisis de las 4 P y estimaciones de precio
 
-**Período:** Jueves 23 de Abril al Miércoles 29 de Abril.
+**Período:** Jueves 23 de Abril al Miércoles 29 de Abril de 2026.
 
 ## 🎯 Objetivos de la semana
 

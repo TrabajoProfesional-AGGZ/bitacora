@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Semana 2 (19/03 al 25/03)
+title: Semana 2 (19/03/2026 al 25/03/2026)
 nav_order: 3
 ---
 
 # Semana 2: Asignación de tutoría e ideación de productos
 
-**Período:** Jueves 19 de Marzo al Miércoles 25 de Marzo.
+**Período:** Jueves 19 de Marzo al Miércoles 25 de Marzo de 2026.
 
 ## 🎯 Objetivos de la semana
 

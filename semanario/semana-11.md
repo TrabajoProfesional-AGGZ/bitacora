@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Semana 11 (21/05 al 27/05)
+title: Semana 11 (21/05/2026 al 27/05/2026)
 nav_order: 12
 ---
 
 # Semana 11: Definición de idea final y anteproyecto
 
-**Período:** Jueves 21 de Mayo al Miércoles 27 de Mayo.
+**Período:** Jueves 21 de Mayo al Miércoles 27 de Mayo de 2026.
 
 ## 🎯 Objetivos de la semana
 

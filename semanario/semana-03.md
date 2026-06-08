@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Semana 3 (26/03 al 01/04)
+title: Semana 3 (26/03/2026 al 01/04/2026)
 nav_order: 4
 ---
 
 # Semana 3: Tareas administrativas y organización documental
 
-**Período:** Jueves 26 de Marzo al Miércoles 1 de Abril.
+**Período:** Jueves 26 de Marzo al Miércoles 1 de Abril de 2026.
 
 ## 🎯 Objetivos de la semana
 

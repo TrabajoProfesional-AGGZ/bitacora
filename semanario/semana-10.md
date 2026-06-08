@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Semana 10 (14/05 al 20/05)
+title: Semana 10 (14/05/2026 al 20/05/2026)
 nav_order: 10
 ---
 
 # Semana 10: Evaluaciones individuales (parte 2)
 
-**Período:** Jueves 14 de Mayo al Miércoles 20 de Mayo.
+**Período:** Jueves 14 de Mayo al Miércoles 20 de Mayo de 2026.
 
 ## 🎯 Objetivos de la semana
 

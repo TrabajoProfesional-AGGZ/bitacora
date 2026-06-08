@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Semana 9 (07/05 al 13/05)
+title: Semana 9 (07/05/2026 al 13/05/2026)
 nav_order: 10
 ---
 
 # Semana 9: Evaluaciones individuales (parte 1) y estimaciones de ingresos
 
-**Período:** Jueves 7 de Mayo al Miércoles 13 de Mayo.
+**Período:** Jueves 7 de Mayo al Miércoles 13 de Mayo de 2026.
 
 ## 🎯 Objetivos de la semana
 
