@@ -27,3 +27,4 @@ Puedes navegar por las distintas semanas utilizando el menú lateral, o acceder 
 10. [Semana 10: Jueves 14/05/2026 al Miércoles 20/05/2026](semanario/semana-10.html)
 11. [Semana 11: Jueves 21/05/2026 al Miércoles 27/05/2026](semanario/semana-11.html)
 12. [Semana 12: Jueves 28/05/2026 al Miércoles 03/06/2026](semanario/semana-12.html)
+13. [Semana 13: Jueves 04/06/2026 al Miércoles 10/06/2026](semanario/semana-13.html)
