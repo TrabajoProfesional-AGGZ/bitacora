@@ -2,7 +2,7 @@
 
 Registro semanal, cronograma de hitos y seguimiento continuo del progreso del Trabajo Profesional.
 
-📖 **[Ver la documentación online aquí](https://trabajoprofesional-aggz.github.io/bitacora/)**
+📖 **[Ver la documentación online](https://trabajoprofesional-aggz.github.io/bitacora/)**
 
 ## Sobre este repositorio
 
