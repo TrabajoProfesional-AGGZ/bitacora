@@ -2,7 +2,7 @@
 layout: default
 title: Inicio
 nav_order: 1
-description: "Página principal de la bitácora."
+description: "Registro semanal del progreso del Trabajo Profesional"
 ---
 
 # Bitácora del proyecto

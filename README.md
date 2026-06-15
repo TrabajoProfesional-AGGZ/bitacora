@@ -1,6 +1,6 @@
 # Bitácora de avances
 
-Registro semanal, cronograma de hitos y seguimiento continuo del progreso del Trabajo Profesional.
+Registro semanal del progreso del Trabajo Profesional.
 
 📖 **[Ver la documentación online](https://trabajoprofesional-aggz.github.io/bitacora/)**
 
