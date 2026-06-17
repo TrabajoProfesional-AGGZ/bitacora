@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Semana 10 (14/05/2026 al 20/05/2026)
+parent: Registro semanal
 nav_order: 10
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Semana 13 (04/06/2026 al 10/06/2026)
+parent: Registro semanal
 nav_order: 14
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Semana 9 (07/05/2026 al 13/05/2026)
+parent: Registro semanal
 nav_order: 10
 ---
 

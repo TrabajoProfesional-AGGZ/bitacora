@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Semana 4 (02/04/2026 al 08/04/2026)
+parent: Registro semanal
 nav_order: 5
 ---
 

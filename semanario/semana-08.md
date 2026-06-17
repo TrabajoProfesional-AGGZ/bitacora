@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Semana 8 (30/04/2026 al 06/05/2026)
+parent: Registro semanal
 nav_order: 9
 ---
 

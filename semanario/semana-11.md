@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Semana 11 (21/05/2026 al 27/05/2026)
+parent: Registro semanal
 nav_order: 12
 ---
 
