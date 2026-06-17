@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Semana 2 (19/03/2026 al 25/03/2026)
-parent: Registro semanal
 nav_order: 3
 ---
 

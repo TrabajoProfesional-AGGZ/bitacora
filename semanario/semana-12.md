@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Semana 12 (28/05/2026 al 03/06/2026)
-parent: Registro semanal
 nav_order: 13
 ---
 
