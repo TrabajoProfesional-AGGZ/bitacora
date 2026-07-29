@@ -34,3 +34,4 @@ Puedes navegar por las distintas semanas utilizando el menú lateral, o acceder 
 17. [Semana 17: Jueves 02/07/2026 al Miércoles 08/07/2026](semanario/semana-17.html)
 18. [Semana 18: Jueves 09/07/2026 al Miércoles 15/07/2026](semanario/semana-18.html)
 19. [Semana 19: Jueves 16/07/2026 al Miércoles 22/07/2026](semanario/semana-19.html)
+20. [Semana 20: Jueves 23/07/2026 al Miércoles 29/07/2026](semanario/semana-20.html)
