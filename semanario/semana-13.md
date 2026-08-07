@@ -18,19 +18,19 @@ nav_order: 14
 
 ## 📝 Tareas realizadas
 
-* **Décima Reunión Semanal y Anteproyecto:** Asistencia al encuentro para revisar las correcciones marcadas por los tutores. Se aplicaron los ajustes necesarios en el documento y se volvió a enviar la versión pulida buscando el visto bueno definitivo.
-* **Sprint Planning N°1:** Realización de la primera ceremonia de planificación (Domingo 07/06) para un Sprint corto de 4 días. Se definió la distribución de roles (3 integrantes en desarrollo de código, 1 en documentación/presentaciones) y el sistema de puntuación (Low=1, Medium=3, High=5).
-* **Desarrollo de Infraestructura (Épicas 1 y 2):** Creación de la estructura base interconectando la plataforma web, el gateway y los microservicios (Autenticación y Club). Se trabajó en las Historias de Usuario para el Login Administrativo, Gestión de Roles, ABM de Usuarios Administrativos, ABM de Socios y la Consulta 360 del Socio.
-* **Configuraciones Técnicas:** Implementación de la lógica del Healthchecker, configuraciones iniciales de bases de datos (Neon) y servicios (Firebase), junto con el deploy del frontend en Vercel.
-* **Documentación y Presentaciones:** Definición inicial de los Diagramas Entidad-Relación (DER), creación de múltiples variantes para la presentación breve de "SocioUnido", armado de la primera versión de la presentación intermedia y estructuración del nuevo portal documental de Scrum.
+* **Décima reunión semanal y anteproyecto:** Asistencia al encuentro para revisar las correcciones marcadas por los tutores. Se aplicaron los ajustes necesarios en el documento y se volvió a enviar la versión pulida buscando el visto bueno definitivo.
+* **Sprint planning N°1:** Realización de la primera ceremonia de planificación (Domingo 07/06) para un Sprint corto de 4 días. Se definió la distribución de roles (3 integrantes en desarrollo de código, 1 en documentación/presentaciones) y el sistema de puntuación (Low=1, Medium=3, High=5).
+* **Desarrollo de infraestructura (Épicas 1 y 2):** Creación de la estructura base interconectando la plataforma web, el gateway y los microservicios (Autenticación y Club). Se trabajó en las Historias de Usuario para el Login Administrativo, Gestión de Roles, ABM de Usuarios Administrativos, ABM de Socios y la Consulta 360 del Socio.
+* **Configuraciones técnicas:** Implementación de la lógica del Healthchecker, configuraciones iniciales de bases de datos (Neon) y servicios (Firebase), junto con el deploy del frontend en Vercel.
+* **Documentación y presentaciones:** Definición inicial de los Diagramas Entidad-Relación (DER), creación de múltiples variantes para la presentación breve de "SocioUnido", armado de la primera versión de la presentación intermedia y estructuración del nuevo portal documental de Scrum.
 
 ## 🚧 Problemas / Desafíos
 
-* **Arquitectura de Microservicios:** El reto principal radicó en la creación e interconexión fluida de todos los microservicios, bases de datos e interfaces en esta fase temprana.
-* **Dinámica Ágil:** Al ser la primera iteración (y con una limitación de tiempo de solo 4 días), representó un desafío adaptar rápidamente al equipo al flujo de repositorios separados (Sub-issues) y al ciclo de revisión de código.
+* **Arquitectura de microservicios:** El reto principal radicó en la creación e interconexión fluida de todos los microservicios, bases de datos e interfaces en esta fase temprana.
+* **Dinámica ágil:** Al ser la primera iteración (y con una limitación de tiempo de solo 4 días), representó un desafío adaptar rápidamente al equipo al flujo de repositorios separados (Sub-issues) y al ciclo de revisión de código.
 
 ## ⏭️ Próximos pasos
 
-* **Undécima Reunión Semanal:** Asistir a la próxima tutoría con el objetivo principal de recibir la aprobación final y realizar la entrega definitiva del anteproyecto.
+* **Undécima reunión semanal:** Asistir a la próxima tutoría con el objetivo principal de recibir la aprobación final y realizar la entrega definitiva del anteproyecto.
 * **Cierre del Sprint 1:** Documentar las ceremonias de Sprint Review, Retrospectiva y análisis de métricas de esta primera iteración.
 * **Planificación del Sprint 2:** Definir la nueva hoja de ruta y backlog continuo aprovechando las lecciones aprendidas de esta semana.

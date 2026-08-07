@@ -17,10 +17,10 @@ nav_order: 21
 
 ## 📝 Tareas realizadas
 
-* **Decimoséptima Reunión Semanal:** Asistencia a la tutoría para recabar feedback continuo, de la cual derivó el objetivo prioritario de validar con usuarios/referentes reales del medio.
-* **Desarrollo y Recuperación:** Liquidación total de las tareas incompletas del Sprint 7 asociadas a las Épicas 7 y 8. Asimismo, el equipo completó de punta a punta todas las historias de usuario de la Épica 9.
-* **Gestión de Contacto Clave:** Búsqueda y coordinación exitosa con un referente del rubro de clubes de fútbol en Argentina, programando la reunión inicial para la Semana 22 (Sprint 9).
-* **Gestión Ágil:** Cumplimiento del cronograma y las ceremonias habituales de Scrum.
+* **Decimoséptima reunión semanal:** Asistencia a la tutoría para recabar feedback continuo, de la cual derivó el objetivo prioritario de validar con usuarios/referentes reales del medio.
+* **Desarrollo y recuperación:** Liquidación total de las tareas incompletas del Sprint 7 asociadas a las Épicas 7 y 8. Asimismo, el equipo completó de punta a punta todas las historias de usuario de la Épica 9.
+* **Gestión de contacto clave:** Búsqueda y coordinación exitosa con un referente del rubro de clubes de fútbol en Argentina, programando la reunión inicial para la Semana 22 (Sprint 9).
+* **Gestión ágil:** Cumplimiento del cronograma y las ceremonias habituales de Scrum.
 
 ## 🚧 Problemas / Desafíos
 
@@ -28,6 +28,6 @@ nav_order: 21
 
 ## ⏭️ Próximos pasos
 
-* **Decimoctava Reunión Semanal:** Asistir a la clase donde se dictarán contenidos sobre métricas de SaaS para empresas.
-* **Inicio de Validaciones:** Realizar el encuentro pautado con el contacto del club de fútbol durante la reunión de Scrum de la Semana 22 (Sprint 9).
-* **Finalización del primer MVP:** Realizar el desarrollo de las historias de usuario de la épica 10 y 11. Dejando una semana mas (Semana 21) para realizar pruebas de usuario y ajustes finales antes del cierre del primer MVP.
+* **Decimoctava reunión semanal:** Asistir a la clase donde se dictarán contenidos sobre métricas de SaaS para empresas.
+* **Inicio de validaciones:** Realizar el encuentro pautado con el contacto del club de fútbol durante la reunión de Scrum de la Semana 22 (Sprint 9).
+* **Finalización del MVP:** Realizar el desarrollo de las historias de usuario de la épica 10 y 11. Dejando una semana mas (Semana 21) para realizar pruebas de usuario y ajustes finales antes del cierre del MVP.

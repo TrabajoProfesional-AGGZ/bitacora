@@ -19,10 +19,10 @@ nav_order: 22
 
 ## 📝 Tareas realizadas
 
-* **Reunión Semanal:** Asistencia a la clase regular con la cátedra, mostrando los últimos avances del producto y confirmando el cierre de la etapa de desarrollo de funcionalidades.
-* **Desarrollo Final:** Culminación exitosa de las historias de usuario referidas a los roles de empleados, accesos y la integración total del canal conversacional.
-* **Validación de Negocio:** Se llevó a cabo la entrevista pautada con Martín Fernando Rubino, logrando extraer insights invaluables sobre la operatoria real en los clubes de fútbol argentinos.
-* **Gestión Ágil:** Cumplimiento de todas las ceremonias bajo el nuevo esquema de inicio de sprint los días miércoles.
+* **Reunión semanal:** Asistencia a la clase regular con la cátedra, mostrando los últimos avances del producto y confirmando el cierre de la etapa de desarrollo de funcionalidades.
+* **Desarrollo final:** Culminación exitosa de las historias de usuario referidas a los roles de empleados, accesos y la integración total del canal conversacional.
+* **Validación de negocio:** Se llevó a cabo la entrevista pautada con Martín Fernando Rubino, logrando extraer insights invaluables sobre la operatoria real en los clubes de fútbol argentinos.
+* **Gestión ágil:** Cumplimiento de todas las ceremonias bajo el nuevo esquema de inicio de sprint los días miércoles.
 * **Desarrollo del agente de testing:** Se implementó un agente de testing integral que permite ejecutar pruebas automatizadas sobre las funcionalidades del MVP, asegurando la calidad y estabilidad del producto antes de su entrega final.
 
 ## 🚧 Problemas / Desafíos
@@ -31,5 +31,5 @@ nav_order: 22
 
 ## ⏭️ Próximos pasos
 
-* **Vigésima Reunión Semanal:** Asistir al encuentro con los tutores para presentar el MVP funcional completo.
-* **Sprint de Estabilización (Sprint 10):** Aprovechar la semana de colchón lograda para ejecutar pruebas exhaustivas, corrección de bugs menores y dejar la plataforma robusta para la entrega definitiva.
+* **Vigésima reunión semanal:** Asistir al encuentro con los tutores para presentar el MVP funcional completo.
+* **Sprint de estabilización (Sprint 10):** Aprovechar la semana de colchón lograda para ejecutar pruebas exhaustivas, corrección de bugs menores y dejar la plataforma robusta para la entrega definitiva.

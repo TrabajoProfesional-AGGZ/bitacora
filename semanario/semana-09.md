@@ -29,5 +29,5 @@ nav_order: 10
 ## ⏭️ Próximos pasos
 
 * **Séptima reunión semanal:** Asistir a la segunda sesión de evaluación para que los integrantes restantes defiendan sus actividades individuales.
-* **Aprobación de idea final:** Continuar con las gestiones para obtener el visto bueno definitivo de la propuesta principal "Socio Unido".
+* **Aprobación de idea final:** Continuar con las gestiones para obtener el visto bueno definitivo de la propuesta principal "SocioUnido".
 * **Desempeño en evaluaciones restantes:** Ejecutar las defensas individuales pendientes de la mejor manera posible, aplicando el feedback y la experiencia de la semana 8.

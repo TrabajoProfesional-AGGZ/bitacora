@@ -4,7 +4,7 @@ title: Semana 18 (09/07/2026 al 15/07/2026)
 nav_order: 19
 ---
 
-# Semana 18: Inicio de PWA, Épica 6 y conexiones base de pagos/WhatsApp
+# Semana 18: Inicio de PWA, épica 6 y conexiones base de pagos/WhatsApp
 
 **Período:** Jueves 9 de Julio al Miércoles 15 de Julio de 2026.
 
@@ -18,17 +18,17 @@ nav_order: 19
 
 ## 📝 Tareas realizadas
 
-* **Decimoquinta Reunión Semanal:** Asistencia a la tutoría para validar el enfoque de la nueva fase de desarrollo (PWA y móvil).
-* **Desarrollo Frontend (PWA):** Construcción y finalización de todas las historias de la Épica 6, estableciendo las bases progresivas de la aplicación.
-* **Integración de Microservicios (Épica 8):** Creación del nuevo microservicio de pagos. Se logró una exitosa interconexión de la PWA tanto con los microservicios antiguos como con el nuevo módulo transaccional.
-* **Bot Conversacional:** Set-up de la infraestructura base y webhooks iniciales para la integración de WhatsApp.
+* **Decimoquinta reunión semanal:** Asistencia a la tutoría para validar el enfoque de la nueva fase de desarrollo (PWA y móvil).
+* **Desarrollo frontend (PWA):** Construcción y finalización de todas las historias de la Épica 6, estableciendo las bases progresivas de la aplicación.
+* **Integración de microservicios (Épica 8):** Creación del nuevo microservicio de pagos. Se logró una exitosa interconexión de la PWA tanto con los microservicios antiguos como con el nuevo módulo transaccional.
+* **Bot conversacional:** Set-up de la infraestructura base y webhooks iniciales para la integración de WhatsApp.
 * **Investigación:** Lectura y recolección de ideas de Trabajos Profesionales de cuatrimestres anteriores para mejorar nuestra documentación y entregables.
 
 ## 🚧 Problemas / Desafíos
 
-* **Documentación de APIs Externas:** Se experimentó cierta fricción inicial al intentar comprender y configurar las APIs de WhatsApp y la pasarela de pagos, pero se resolvió exitosamente investigando foros y documentación secundaria.
+* **Documentación de APIs externas:** Se experimentó cierta fricción inicial al intentar comprender y configurar las APIs de WhatsApp y la pasarela de pagos, pero se resolvió exitosamente investigando foros y documentación secundaria.
 
 ## ⏭️ Próximos pasos
 
-* **Decimosexta Reunión Semanal:** Asistir a la tutoría para mostrar los avances tempranos con la PWA y la plataforma web.
-* **Desarrollo Profundo:** Seguir con el desarrollo de las épicas 7 y 8.
+* **Decimosexta reunión semanal:** Asistir a la tutoría para mostrar los avances tempranos con la PWA y la plataforma web.
+* **Desarrollo profundo:** Seguir con el desarrollo de las épicas 7 y 8.

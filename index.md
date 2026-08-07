@@ -7,7 +7,7 @@ description: "Registro semanal del progreso del Trabajo Profesional"
 
 # Bitácora del proyecto
 
-Bienvenido al registro de seguimiento y evolución del Trabajo Profesional. 
+Bienvenido al registro de seguimiento y evolución de nuestro Trabajo Profesional "SocioUnido". 
 
 El objetivo de este sitio es documentar el progreso continuo del proyecto, proporcionando un historial claro de las tareas realizadas, los hitos alcanzados y las decisiones tomadas a lo largo del desarrollo.
 
@@ -36,3 +36,4 @@ Puedes navegar por las distintas semanas utilizando el menú lateral, o acceder 
 19. [Semana 19: Jueves 16/07/2026 al Miércoles 22/07/2026](semanario/semana-19.html)
 20. [Semana 20: Jueves 23/07/2026 al Miércoles 29/07/2026](semanario/semana-20.html)
 21. [Semana 21: Jueves 30/07/2026 al Miércoles 05/08/2026](semanario/semana-21.html)
+21. [Semana 22: Jueves 06/08/2026 al Miércoles 12/08/2026](semanario/semana-22.html)
