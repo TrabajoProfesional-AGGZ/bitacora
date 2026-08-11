@@ -13,13 +13,12 @@ nav_order: 23
 * [x] Ejecutar testing intensivo de toda la arquitectura del sistema.
 * [x] Auditar y mejorar el código utilizando OpenClaw y SonarCloud.
 * [x] Desplegar el canal conversacional definitivo en Telegram.
-* [x] Crear el panel de monitoreo multi-club.
 * [x] Cerrar de forma definitiva el MVP para iniciar la fase documental.
 
 ## 📝 Tareas realizadas
 
 * **Testing y calidad:** El equipo se volcó de lleno a las pruebas del sistema completo (gateway, microservicios, plataforma y PWA). Se auditaron vulnerabilidades y deudas técnicas con SonarCloud y OpenClaw, limpiando el código para su versión final.
-* **Integraciones finales:** Se completó el traslado del bot a la plataforma de Telegram y se construyó un panel de monitoreo esencial para supervisar la salud de los servicios de cara a la evaluación.
+* **Integraciones finales:** Se completó el traslado del bot a la plataforma de Telegram.
 * **Quick wins:** Se desarrollaron pequeñas mejoras visuales y funcionales de rápida implementación que elevaron significativamente la calidad percibida del sistema.
 * **Dedicación extraordinaria:** Gracias a la liberación de compromisos académicos por la época del año, el equipo pudo absorber una carga horaria atípica y cumplir con todos los objetivos propuestos.
 
@@ -29,5 +28,5 @@ nav_order: 23
 
 ## ⏭️ Próximos pasos
 
-* **Fase de documentación:** Iniciar los nuevos sprints enfocados al 100% en la redacción del informe final, anexos técnicos y manuales de usuario.
+* **Fase de documentación:** Iniciar los nuevos sprints enfocados casi al 100% en la redacción del informe final, anexos técnicos y manuales de usuario.
 * **Evolución metodológica:** Preparar el terreno para abandonar el formato de sprints formales una vez cerrada la documentación, dedicando el último tramo del proyecto exclusivamente a ensayar la presentación final y realizar ajustes finos de diseño (UX/UI).
