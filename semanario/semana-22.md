@@ -1,15 +1,16 @@
 ---
 layout: default
-title: Semana 22 (05/08/2026 al 11/08/2026)
+title: Semana 22 (06/08/2026 al 12/08/2026)
 nav_order: 23
 ---
 
 # Semana 22: Cierre definitivo del MVP y auditoría integral
 
-**Período:** Miércoles 5 de Agosto al Martes 11 de Agosto de 2026.
+**Período:** Jueves 6 de Agosto al Miércoles 12 de Agosto de 2026.
 
 ## 🎯 Objetivos de la semana
 
+* [x] Asistir a la vigésima reunión semanal.
 * [x] Ejecutar testing intensivo de toda la arquitectura del sistema.
 * [x] Auditar y mejorar el código utilizando OpenClaw y SonarCloud.
 * [x] Desplegar el canal conversacional definitivo en Telegram.
@@ -17,6 +18,7 @@ nav_order: 23
 
 ## 📝 Tareas realizadas
 
+* **Reunión semanal:** Asistencia a la clase regular con la cátedra, mostrando los últimos avances del producto y confirmando el cierre de la etapa de desarrollo de funcionalidades.
 * **Testing y calidad:** El equipo se volcó de lleno a las pruebas del sistema completo (gateway, microservicios, plataforma y PWA). Se auditaron vulnerabilidades y deudas técnicas con SonarCloud y OpenClaw, limpiando el código para su versión final.
 * **Integraciones finales:** Se completó el traslado del bot a la plataforma de Telegram.
 * **Quick wins:** Se desarrollaron pequeñas mejoras visuales y funcionales de rápida implementación que elevaron significativamente la calidad percibida del sistema.
@@ -28,5 +30,6 @@ nav_order: 23
 
 ## ⏭️ Próximos pasos
 
+* **Vigésimo primera reunión semanal:** Asistir al encuentro con los tutores para presentar el MVP funcional completo.
 * **Fase de documentación:** Iniciar los nuevos sprints enfocados casi al 100% en la redacción del informe final, anexos técnicos y manuales de usuario.
 * **Evolución metodológica:** Preparar el terreno para abandonar el formato de sprints formales una vez cerrada la documentación, dedicando el último tramo del proyecto exclusivamente a ensayar la presentación final y realizar ajustes finos de diseño (UX/UI).

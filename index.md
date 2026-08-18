@@ -36,6 +36,9 @@ Puedes navegar por las distintas semanas utilizando el menú lateral, o acceder 
 19. [Semana 19: Jueves 16/07/2026 al Miércoles 22/07/2026](semanario/semana-19.html)
 20. [Semana 20: Jueves 23/07/2026 al Miércoles 29/07/2026](semanario/semana-20.html)
 21. [Semana 21: Jueves 30/07/2026 al Miércoles 05/08/2026](semanario/semana-21.html)
-21. [Semana 22: Jueves 06/08/2026 al Miércoles 12/08/2026](semanario/semana-22.html)
+22. [Semana 22: Jueves 06/08/2026 al Miércoles 12/08/2026](semanario/semana-22.html)
+23. [Semana 23: Jueves 13/08/2026 al Miércoles 19/08/2026](semanario/semana-23.html)
+24. [Semana 24: Jueves 20/08/2026 al Miércoles 26/08/2026](semanario/semana-24.html)
+25. [Semana 25: Jueves 27/08/2026 al Miércoles 02/09/2026](semanario/semana-25.html)
 
 * **[Métricas de la implementación](metricas.html):** Estadísticas del desarrollo, cantidad de commits, Pull Requests y distribución del trabajo en el equipo.

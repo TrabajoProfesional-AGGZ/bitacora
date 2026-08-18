@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Semana 21 (29/07/2026 al 04/08/2026)
+title: Semana 21 (30/07/2026 al 05/08/2026)
 nav_order: 22
 ---
 
