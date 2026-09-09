@@ -40,5 +40,18 @@ Puedes navegar por las distintas semanas utilizando el menú lateral, o acceder 
 23. [Semana 23: Jueves 13/08/2026 al Miércoles 19/08/2026](semanario/semana-23.html)
 24. [Semana 24: Jueves 20/08/2026 al Miércoles 26/08/2026](semanario/semana-24.html)
 25. [Semana 25: Jueves 27/08/2026 al Miércoles 02/09/2026](semanario/semana-25.html)
+26. [Semana 26: Jueves 03/09/2026 al Miércoles 09/09/2026](semanario/semana-26.html)
+27. [Semana 27: Jueves 10/09/2026 al Miércoles 16/09/2026](semanario/semana-27.html)
+28. [Semana 28: Jueves 17/09/2026 al Miércoles 23/09/2026](semanario/semana-28.html)
+29. [Semana 29: Jueves 24/09/2026 al Miércoles 30/09/2026](semanario/semana-29.html)
+30. [Semana 30: Jueves 01/10/2026 al Miércoles 07/10/2026](semanario/semana-30.html)
+31. [Semana 31: Jueves 08/10/2026 al Miércoles 14/10/2026](semanario/semana-31.html)
+32. [Semana 32: Jueves 15/10/2026 al Miércoles 21/10/2026](semanario/semana-32.html)
+33. [Semana 33: Jueves 22/10/2026 al Miércoles 28/10/2026](semanario/semana-33.html)
+34. [Semana 34: Jueves 29/10/2026 al Miércoles 04/11/2026](semanario/semana-34.html)
+35. [Semana 35: Jueves 05/11/2026 al Miércoles 11/11/2026](semanario/semana-35.html)
+36. [Semana 36: Jueves 12/11/2026 al Miércoles 18/11/2026](semanario/semana-36.html)
+37. [Semana 37: Jueves 19/11/2026 al Miércoles 25/11/2026](semanario/semana-37.html)
+38. [Semana 38: Jueves 26/11/2026 al Miércoles 02/12/2026](semanario/semana-38.html)
 
 * **[Métricas de la implementación](metricas.html):** Estadísticas del desarrollo, cantidad de commits, Pull Requests y distribución del trabajo en el equipo.
