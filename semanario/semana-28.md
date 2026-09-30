@@ -32,5 +32,4 @@ nav_order: 29
 
 * **Cierre documental:** Finalizar y empaquetar el informe final junto con el resto de la documentación requerida.
 * **Grabación de la demo:** Capturar y preparar el video demostrativo para la ficha ejecutiva.
-* **Primer ensayo de defensa:** Ejecutar la práctica inicial de la exposición oral.
-* **Vigésimo séptima reunión semanal:** Asistir al próximo encuentro con los tutores para realizar el primer ensayo general.
+* **Vigésimo séptima reunión semanal:** Asistir al próximo encuentro con los tutores para realizar la última revisión del MVP.
