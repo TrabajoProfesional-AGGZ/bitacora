@@ -24,7 +24,7 @@ nav_order: 31
 
 ## ⏭️ Próximos pasos
 
-* **Vigésimo octava reunión semanal:** Asistir al próximo encuentro de seguimiento con los tutores.
+* **Vigésimo novena reunión semanal:** Asistir al próximo encuentro de seguimiento con los tutores.
 * **Segundo ensayo de defensa:** Ejecutar una nueva práctica de la exposición oral para evaluar las mejoras implementadas, medir los tiempos y afianzar la dinámica del equipo.
 * **Recepción de firmas:** Aguardar la devolución de los documentos entregables debidamente firmados por los tutores.
 * **Entrega formal:** Presentar oficialmente toda la documentación final ante la cátedra.

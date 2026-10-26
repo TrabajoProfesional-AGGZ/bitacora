@@ -25,6 +25,6 @@ nav_order: 33
 
 ## ⏭️ Próximos pasos
 
-* **Vigésimo novena reunión semanal:** Asistir al próximo encuentro de seguimiento con los tutores.
+* **Trigésima reunión semanal:** Asistir al próximo encuentro de seguimiento con los tutores.
 * **Tercer ensayo de defensa:** Realizar la tercera práctica formal de la presentación en la próxima reunión semanal.
 * **Recepción de feedback documental:** Recibir las correcciones y comentarios de los tutores sobre los entregables finales presentados.
